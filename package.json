@@ -1,0 +1,50 @@
+{
+  "_from": "qauth",
+  "_id": "qauth@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-ejpwv+7f3T0owUgLeONw9msmeaI=",
+  "_location": "/qauth",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "qauth",
+    "name": "qauth",
+    "escapedName": "qauth",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/qauth/-/qauth-0.1.1.tgz",
+  "_shasum": "7a3a70bfeedfdd3d28c1480b78e370f66b2679a2",
+  "_spec": "qauth",
+  "_where": "d:\\devGit\\qau",
+  "author": {
+    "name": "ivy fae - @lalanl"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "oauth": "^0.9.13",
+    "open": "0.0.5",
+    "q": "^1.4.1"
+  },
+  "deprecated": false,
+  "description": "Quick Twitter OAuth Witchzard",
+  "devDependencies": {},
+  "keywords": [
+    "oauth",
+    "twitter",
+    "botALLY"
+  ],
+  "license": "WTFPL",
+  "main": "qauth.js",
+  "name": "qauth",
+  "scripts": {
+    "start": "node qauth.js"
+  },
+  "version": "0.1.1"
+}
